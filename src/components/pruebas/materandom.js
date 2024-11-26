@@ -104,6 +104,7 @@ const MathQuiz = () => {
   // Generar preguntas al cargar el componente
   useEffect(() => {
     generateQuestions();
+    // eslint-disable-next-line
   }, []);
 
   // Manejador de cambios en respuestas
