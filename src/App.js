@@ -13,6 +13,8 @@ import Cuestionario2 from './components/cuestionarios/quiz2';
 import Cuestionario3 from './components/cuestionarios/quiz3';
 import Cuestionario4 from './components/cuestionarios/quiz4';
 import Cuestionario5 from './components/cuestionarios/quiz5';
+import Cuestionario6 from './components/cuestionarios/quiz6';
+import Cuestionario7 from './components/cuestionarios/quiz7';
 
 function App() {
   return (
@@ -37,6 +39,8 @@ function App() {
         <Route path="/cuestionario3" element={<Cuestionario3 />} />
         <Route path="/cuestionario4" element={<Cuestionario4 />} />
         <Route path="/cuestionario5" element={<Cuestionario5 />} />
+        <Route path="/cuestionario6" element={<Cuestionario6 />} />
+        <Route path="/cuestionario7" element={<Cuestionario7 />} />
 
       </Routes>      
       </main>  

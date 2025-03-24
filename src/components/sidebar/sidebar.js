@@ -28,6 +28,8 @@ const Sidebar = () => {
     { title: 'Cuestionario 3', icon: HelpCircle, path: '/cuestionario3' },
     { title: 'Cuestionario 4', icon: HelpCircle, path: '/cuestionario4' },
     { title: 'Cuestionario 5', icon: HelpCircle, path: '/cuestionario5' },
+    { title: 'Cuestionario 6', icon: HelpCircle, path: '/cuestionario6' },
+    { title: 'Cuestionario 7', icon: HelpCircle, path: '/cuestionario7' },
   ];
 
 
